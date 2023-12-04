@@ -1,0 +1,98 @@
+[
+  {
+    "contestName": "Business Innovation Challenge",
+    "creatorEmail": "alice@example.com",
+    "image": "https://t4.ftcdn.net/jpg/04/90/64/91/240_F_490649115_J1oaaKUthGkvaHnzRbnEGb1AL53Jl3Lp.jpg",
+    "contestDescription": "Unleash your entrepreneurial spirit in the Business Innovation Challenge. Propose innovative business solutions and compete for recognition!",
+    "contestPrice": 150,
+    "prizeMoney": 2000,
+    "taskSubmissionText": "Submit a detailed proposal outlining your innovative business idea and its potential impact.",
+    "contestType": "Business Contest",
+    "contestDeadline": "12/15/2023 06:00 PM",
+    "contestWinner": {
+      "name": "Alice Coder",
+      "avatarImage": "https://t4.ftcdn.net/jpg/05/23/63/01/240_F_523630101_y8VuucXjl9bYyZgAIK6u94xbD6ohZVju.jpg"
+    },
+    "attemptedCount": 190
+  },
+  {
+    "contestName": "Medical Research Symposium",
+    "creatorEmail": "bob@example.com",
+    "image": "https://t3.ftcdn.net/jpg/06/58/79/40/240_F_658794090_CjzoZsDJJn4Vu7mOuMra3jPoWzNhciv4.jpg",
+    "contestDescription": "Contribute to medical research in the Medical Research Symposium. Present groundbreaking findings and advance healthcare!",
+    "contestPrice": 120,
+    "prizeMoney": 1500,
+    "taskSubmissionText": "Submit a research paper highlighting your medical findings, methodology, and potential impact on healthcare.",
+    "contestType": "Medical Contest",
+    "contestDeadline": "12/20/2023 08:30 PM",
+    "contestWinner": {
+      "name": "Bob Developer",
+      "avatarImage": "https://t3.ftcdn.net/jpg/02/38/99/66/240_F_238996661_3PrdpNQUoal8kcUAP4uhS64M3ccEhI4a.jpg"
+    },
+    "attemptedCount": 180
+  },
+  {
+    "contestName": "Creative Writing Extravaganza",
+    "creatorEmail": "eva@example.com",
+    "image": "https://t3.ftcdn.net/jpg/05/70/65/80/240_F_570658055_n9m5PfZ6cc4HUQr7XKbGJ7GKfzxpIzVj.jpg",
+    "contestDescription": "Explore the world of words in the Creative Writing Extravaganza. Craft compelling stories and showcase your literary prowess!",
+    "contestPrice": 180,
+    "prizeMoney": 1000,
+    "taskSubmissionText": "Submit an original piece of creative writing, whether it's a short story, poem, or essay, expressing your unique perspective.",
+    "contestType": "Article Writing",
+    "contestDeadline": "12/10/2023 10:15 PM",
+    "contestWinner": {
+      "name": "Eva AIEnthusiast",
+      "avatarImage": "https://t4.ftcdn.net/jpg/06/29/65/89/240_F_629658915_YBHIO473kkCpp0g5ak4Si7qihqmBVvs7.jpg"
+    },
+    "attemptedCount": 160
+  },
+  {
+    "contestName": "Gaming Tournament",
+    "creatorEmail": "charlie@example.com",
+    "image": "https://t4.ftcdn.net/jpg/06/26/93/77/240_F_626937740_X2GLSq13zgq2beSqkbVjr4Qwbvve7i9y.jpg",
+    "contestDescription": "Showcase your gaming skills in the Gaming Tournament. Compete against the best and emerge victorious!",
+    "contestPrice": 130,
+    "prizeMoney": 800,
+    "taskSubmissionText": "Participate in a thrilling gaming tournament. Submit your gameplay videos and achievements to demonstrate your gaming prowess.",
+    "contestType": "Gaming",
+    "contestDeadline": "12/18/2023 07:45 PM",
+    "contestWinner": {
+      "name": "Charlie",
+      "avatarImage": "https://t3.ftcdn.net/jpg/06/01/49/02/240_F_601490207_C4PPpeQofBFPs0pZtVCCdSiDpBiZHv1n.jpg"
+    },
+    "attemptedCount": 150
+  },
+  {
+    "contestName": "Environmental Sustainability Challenge",
+    "creatorEmail": "olivia@example.com",
+    "image": "https://t3.ftcdn.net/jpg/05/24/08/84/240_F_524088487_Sm8eHzU5jJPPvxXsWrMHCOg1GaWjI4OT.jpg",
+    "contestDescription": "Address environmental challenges in the Environmental Sustainability Challenge. Propose sustainable solutions for a better future!",
+    "contestPrice": 200,
+    "prizeMoney": 1200,
+    "taskSubmissionText": "Submit a proposal outlining your sustainable solution to a specific environmental challenge. Emphasize the potential positive impact.",
+    "contestType": "Business Contest",
+    "contestDeadline": "12/12/2023 09:00 PM",
+    "contestWinner": {
+      "name": "Olivia EcoChampion",
+      "avatarImage": "https://t4.ftcdn.net/jpg/06/13/39/43/240_F_613394351_FASmCwKzxp6YMu78AB2GbUCFAUmlBOAc.jpg"
+    },
+    "attemptedCount": 140
+  },
+  {
+    "contestName": "Tech Innovation Hackathon",
+    "creatorEmail": "max@example.com",
+    "image": "https://t3.ftcdn.net/jpg/06/18/81/68/240_F_618816823_P1XiLVN2TPQY8gD6dJJsivzeLGDO3yIk.jpg",
+    "contestDescription": "Innovate in the Tech Innovation Hackathon. Develop groundbreaking tech solutions and push the boundaries of innovation!",
+    "contestPrice": 150,
+    "prizeMoney": 1800,
+    "taskSubmissionText": "Submit a working prototype of your tech innovation along with documentation detailing its features and potential applications.",
+    "contestType": "Coding Challenge",
+    "contestDeadline": "12/22/2023 08:30 PM",
+    "contestWinner": {
+      "name": "Max MLInnovator",
+      "avatarImage": "https://t3.ftcdn.net/jpg/06/32/00/84/240_F_632008472_Vt6K7MwqIgGkBsGRXoZU7UQEWOgHUtfi.jpg"
+    },
+    "attemptedCount": 130
+  }
+]

@@ -1,0 +1,51 @@
+[
+  
+  
+  {
+    
+  },
+  {
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    
+  },
+  {
+    "contestName": "Future Business Leaders Competition",
+    "contestDescription": "Compete to become a future business leader. Present your strategies and visions for the business world of tomorrow.",
+    "taskSubmissionText": "Submit a comprehensive proposal outlining your business strategies and future visions.",
+    "contestType": "Business Contest"
+  },
+  {
+    "contestName": "Cutting-edge Medical Innovations",
+    "contestDescription": "Showcase cutting-edge medical innovations in this contest. Propose solutions that can revolutionize medical practices.",
+    "taskSubmissionText": "Submit a research paper detailing your innovative medical solutions and their potential impact.",
+    "contestType": "Medical Contest"
+  },
+  {
+    "contestName": "Unleash Your Imagination",
+    "contestDescription": "Unleash your imagination in this article writing contest. Write captivating pieces that transport readers to new worlds.",
+    "taskSubmissionText": "Submit an imaginative article, story, or essay that showcases your unique perspective and creativity.",
+    "contestType": "Article Writing"
+  },
+  {
+    "contestName": "Virtual Gaming Extravaganza",
+    "contestDescription": "Immerse yourself in the virtual gaming extravaganza. Compete in a variety of gaming challenges and claim victory!",
+    "taskSubmissionText": "Participate in diverse gaming challenges. Submit gameplay videos and achievements to prove your gaming prowess.",
+    "contestType": "Gaming"
+  },
+  {
+    "contestName": "CodeCraft Coding Marathon",
+    "contestDescription": "Engage in the CodeCraft Coding Marathon. Showcase your coding skills in a marathon of challenging programming problems.",
+    "taskSubmissionText": "Solve a series of coding challenges within the given time frame. Submit your code and explanations for evaluation.",
+    "contestType": "Coding"
+  }
+]
