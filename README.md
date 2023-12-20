@@ -1,4 +1,4 @@
-# React + Vite
+# [server git link](https://github.com/tayeb012/contest-platform-server)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
